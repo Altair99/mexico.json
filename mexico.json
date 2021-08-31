@@ -439,7 +439,7 @@
 	{
 		"clave": "GRO",
 		"nombre": "Guerrero",
-		"municpios": [
+		"municipios": [
 			"Acapulco de Juárez",
 			"Ahuacuotzingo",
 			"Ajuchitlán del Progreso",
@@ -616,7 +616,7 @@
 	{
 		"clave": "JAL",
 		"nombre": "Jalisco",
-		"municpios": [
+		"municipios": [
 			"Acatic",
 			"Acatlán de Juárez",
 			"Ahualulco de Mercado",
